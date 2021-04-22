@@ -1,4 +1,4 @@
-# Docker Image for restaurant api using laravel framework
+# Restaurant Application using Laravel Framework and Docker
 This repository provides you a development environment without requiring you to install PHP, a web server, and any other server software on your local machine. For this, it requires Docker.
 
 
